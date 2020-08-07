@@ -5,6 +5,7 @@ def my_collect(arr)
   lang = []
   while i < arr.length 
     lang << yield(arr[i])
+    i += 1
 end
 lang
 end
