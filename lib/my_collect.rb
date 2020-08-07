@@ -3,7 +3,8 @@ require "pry"
 def my_collect(laguages)
   arr = []
   laguages.each do |l|
-binding.pry    
+    arr << 
+# binding.pry    
 end
 arr
 end
