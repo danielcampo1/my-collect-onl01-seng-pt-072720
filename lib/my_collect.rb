@@ -1,5 +1,8 @@
 
 def my_collect(laguages)
   arr = []
-  laguages.upcase
+  laguages.each do |l|
+    
+end
+arr
 end
