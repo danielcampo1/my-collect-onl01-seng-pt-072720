@@ -4,12 +4,12 @@ def my_collect(laguages)
   arr = []
   laguages.each do |lang|
     arr << lang.upcase
-    yield(name)
+    yield(students)
 binding.pry    
 end
 arr
 end
 
-my_collect(students) do |name|
+my_collect(students) do |students|
 end
   
