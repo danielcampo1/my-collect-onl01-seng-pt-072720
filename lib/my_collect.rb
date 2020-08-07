@@ -1,4 +1,6 @@
 
 def my_collect(laguages)
-  "my_collect"
+  
+end
+my_collect
 end
