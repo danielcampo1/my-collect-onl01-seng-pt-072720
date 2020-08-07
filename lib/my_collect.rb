@@ -8,3 +8,6 @@ def my_collect(laguages)
 end
 arr
 end
+
+my_collect(students)
+end
