@@ -11,4 +11,5 @@ end
 arr
 end
 
-my_collect(students)
+my_collect(students) do |name|
+  
