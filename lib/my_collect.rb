@@ -10,6 +10,3 @@ end
 arr
 end
 
-my_collect(students) do |students|
-end
-  
