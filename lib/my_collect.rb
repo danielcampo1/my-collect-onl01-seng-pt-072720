@@ -5,7 +5,7 @@ def my_collect(laguages)
   students = []
   laguages.each do |lang|
     arr << lang.upcase
-    
+    yield
 # binding.pry    
 end
 arr
