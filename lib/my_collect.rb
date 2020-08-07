@@ -9,5 +9,5 @@ end
 arr
 end
 
-my_collect(students)
-end
+def my_collect(students)
+  end
