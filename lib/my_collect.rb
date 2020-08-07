@@ -6,10 +6,11 @@ def my_collect(laguages)
   laguages.each do |lang|
     arr << lang.upcase
     yield(name)
-# binding.pry    
+binding.pry    
 end
 arr
 end
 
 my_collect(students) do |name|
+end
   
