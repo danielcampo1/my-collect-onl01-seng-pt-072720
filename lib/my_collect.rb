@@ -2,7 +2,7 @@ require "pry"
 
 def my_collect(laguages)
   arr = []
-  laguages.each do |lang|
+  laguages.collect do |lang|
     arr << lang.upcase
 # binding.pry    
 end
