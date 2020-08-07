@@ -1,8 +1,8 @@
 require "pry"
 
-def my_collect(laguages)
+def my_collect(languages)
   arr = []
-  laguages.collect do |lang|
+  languages.collect do |lang|
   
 # binding.pry    
 end
