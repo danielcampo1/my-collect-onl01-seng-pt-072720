@@ -11,3 +11,4 @@ end
 arr
 end
 
+my_collect(students)
