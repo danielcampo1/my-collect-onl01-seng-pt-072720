@@ -1,6 +1,6 @@
 require "pry"
 
-def my_collect(collection)
+def my_collect(languages)
   empty_array =[]
   
   
