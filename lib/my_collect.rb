@@ -2,7 +2,6 @@ require "pry"
 
 def my_collect(laguages)
   arr = []
-  students = []
   laguages.each do |lang|
     arr << lang.upcase
     yield(name)
